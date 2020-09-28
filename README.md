@@ -1,5 +1,5 @@
-# country-list
-This is an exercise where we create list of countries where you can add or remove your favorite countries. 
+# Country List and Favorites
+This is an exercise from IGTI where you create list of countries where you can add or remove your favorite countries. 
 
 ## Languagues
 HTML, CSS and JavaScript ES6
